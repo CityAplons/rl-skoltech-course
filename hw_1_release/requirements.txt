@@ -1,0 +1,8 @@
+gym
+numpy
+tqdm
+torch
+torchvision
+tensorflow
+tensorboard
+tensorboardX

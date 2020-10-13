@@ -1,0 +1,13 @@
+gym
+git+git://github.com/maximecb/gym-minigrid@master#egg=gym-minigrid
+scikit-learn
+pandas
+matplotlib
+numpy
+tqdm
+torch
+torchvision
+tensorflow
+tensorboard
+tensorboardX
+ffmpeg
