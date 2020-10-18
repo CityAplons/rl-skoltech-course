@@ -1,0 +1,5 @@
+rcognita
+torch
+numpy
+scipy
+tqdm
